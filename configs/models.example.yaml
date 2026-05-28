@@ -1,0 +1,4 @@
+models:
+  - path: /path/to/local/causal-lm
+    tag: organization/model-name
+
