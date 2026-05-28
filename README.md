@@ -148,7 +148,7 @@ We sincerely thank the authors and contributors for their valuable work.
 
 ## 📨Contact
 
-- Kaijie Zheng: todo
+- Kaijie Zheng: liushengle35@gmail.com
 - Weiqin Wang: here1swqw@gmail.com 
 
 ---
@@ -160,7 +160,7 @@ If you find this work useful for your research, please consider citing our paper
 ```bibtex
 @article{zheng2026dysem,
   title={DySem: Uncovering Dynamic Semantic Components via Multilingual Consensus for Calculating Semantic Textual Similarity},
-  author={todo},
+  author={Kaijie Zheng, Weiqin Wang, Yile Wang, Hui Huang},
   journal={arXiv preprint arXiv:todo},
   year={2026}
 }
