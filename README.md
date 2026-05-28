@@ -1,6 +1,6 @@
 <div align="center">
   
-# DySem: Uncovering Dynamic Semantic Components via Multilingual Consensus for Calculating Semantic Textual Similarity
+# DySem: Uncovering Dynamic Semantic Components<br> via Multilingual Consensus<br>for Calculating Semantic Textual Similarity
 
 [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/todo)
 [![Github](https://img.shields.io/badge/code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/szu-tera/DySem)
